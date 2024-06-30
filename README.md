@@ -25,6 +25,10 @@ The folder "files" contains all the files required to produce the units. We prov
 
 In the "manual" folder, you will find a document with instructions on how to assemble the units.
 
+## Examples of Functional Units
+
+Two brief videos showing functional units can be found in the folder "videos."
+
 ## Funding, Publications, and Contact
 
 The soft robots discussed in this repository were designed at the University of Plymouth, where the UKRI funded the research activities. Grant Reference **EP/X525789/1**.

@@ -23,7 +23,7 @@ These systems can be used for teaching and research purposes. Additionally, you 
 
 The folder "files" contains all the files required to produce the units. We provide source and ready-to-go files. You can use the latter if you are happy with the design or modify the source files to tailor the robots to your needs. 
 
-In the "manual" folder, you will find a document with instructions on how to assemble the units.
+In the "manual" folder, you will find a document with instructions on how to assemble the units. **Note: This document is under preparation.**
 
 ## Examples of Functional Units
 

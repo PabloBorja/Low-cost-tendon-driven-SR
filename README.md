@@ -19,6 +19,12 @@ The proposed designs focus on the following design features:
 
 These systems can be used for teaching and research purposes. Additionally, you can create fun applications with additional electronics or robotics knowledge. So, hobbyists are also welcome.
 
+## Manufacturing Your Robots
+
+The folder "files" contains all the files required to produce the units. We provide source and ready-to-go files. You can use the latter if you are happy with the design or modify the source files to tailor the robots to your needs. 
+
+In the "manual" folder, you will find a document with instructions on how to assemble the units.
+
 ## Funding, Publications, and Contact
 
 The soft robots discussed in this repository were designed at the University of Plymouth, where the UKRI funded the research activities. Grant Reference **EP/X525789/1**.

@@ -37,7 +37,7 @@ If you find the material here presented useful, please consider citing the follo
 
 + *Ted Winter-Glasgow and Pablo  Borja "Designing and Manufacturing Low-cost, Tendon-driven Soft Robots." TAROS Conference, 2024.*
 
-If you have suggestions or remarks or want to reach out, please email me at pablo.borjarosales@plymouth.ac.uk
+If you have suggestions or remarks or want to reach out, please email me at pablo.borja@it.uu.se
 
 
 
